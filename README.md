@@ -8,3 +8,5 @@ Features:
 * Employee add, delete, update information
 * Employee incentives, salary deduction control
 * Employee salaries, payslip
+
+* Testing the code rabbit 
